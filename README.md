@@ -24,4 +24,4 @@ where I can contribute to real-world projects and grow as a developer.
 - GitHub: https://github.com/AsrarFeroz
 - ## 📬 Connect With Me
 
-[![LinkedIn](assets/linkedin.png)](https://www.linkedin.com/in/https://www.linkedin.com/in/asrar-feroz-98b502214/)
+[![LinkedIn](assets/linkedin.png)](https://www.linkedin.com/in/asrar-feroz-98b502214/)
