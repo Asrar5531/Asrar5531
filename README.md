@@ -20,8 +20,7 @@
 Eager to apply my technical and analytical skills through an **internship opportunity**,  
 where I can contribute to real-world projects and grow as a developer.
 
-📫 Connect with me:
-- GitHub: https://github.com/AsrarFeroz
-- ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asrar-feroz-98b502214/)
+- ## 📬 Connect With Me
+- [![GitHub](https://img.shields.io/badge/GitHub-AsrarFeroz-black?logo=github)](https://github.com/AsrarFeroz)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asrar-feroz-98b502214/)
