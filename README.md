@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**Asrar5531/Asrar5531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Asrar Feroz
 
-Here are some ideas to get you started:
+🎓 Motivated Computer Science student currently pursuing a  
+**Bachelor of Computer Applications (BCA)** at **Islamia College of Science and Commerce**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about:
+- Programming
+- Mathematics
+- Data Analytics 
+
+🚀 Currently learning:
+- Python
+- Java
+- Html,CSS
+- C
+
+🎯 Career Goal:
+Eager to apply my technical and analytical skills through an **internship opportunity**,  
+where I can contribute to real-world projects and grow as a developer.
+
+📫 Connect with me:
+- GitHub: https://github.com/AsrarFeroz
